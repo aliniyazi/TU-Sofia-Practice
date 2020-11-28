@@ -1,0 +1,28 @@
+This Bank Account belongs to : Georgi Mladenov
+With Id: 12345h
+Georgi Mladenov Paid: 
+318.860000
+1853.110000
+Total: 2171.970000
+...................... 
+Georgi Mladenov Withdrawn: 
+2563.450000
+138.580000
+563.050000
+Total: 3265.080000
+...................... 
+
+This Bank Account belongs to : Georgi Mladenov
+With Id: 12345h
+Georgi Mladenov Paid: 
+318.860000
+1853.110000
+Total: 2171.970000
+...................... 
+Georgi Mladenov Withdrawn: 
+2563.450000
+138.580000
+563.050000
+Total: 3265.080000
+...................... 
+
